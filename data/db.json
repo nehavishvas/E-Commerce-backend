@@ -1,0 +1,410 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy A04 4G LTE",
+      "brand": "Samsung",
+      "image": "https://m.media-amazon.com/images/I/61L1ItFgFHL._AC_SL1500_.jpg",
+      "rating": 4.2,
+      "countInStock": 14,
+      "price": 11999,
+      "description": "64GB + 4GB RAM, factory unlocked, 6.5-inch display, 50MP dual camera",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cell Phones",
+      "itemName": "Smartphones",
+      "itemDetails": {
+        "model": "Galaxy A04",
+        "storage": "64GB",
+        "ram": "4GB",
+        "display": "6.5-inch",
+        "connectivity": "4G LTE",
+        "camera": "50MP dual camera"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cell-phones",
+      "itemSlug": "smartphones"
+    },
+    {
+      "id": 2,
+      "name": "Google Pixel 4a 4G LTE",
+      "brand": "Google",
+      "image": "https://m.media-amazon.com/images/I/71Q9M0lA6nL._AC_SL1500_.jpg",
+      "rating": 4.4,
+      "countInStock": 9,
+      "price": 18999,
+      "description": "Just Black, unlocked Android phone with Night Sight and ultrawide lens",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cell Phones",
+      "itemName": "Smartphones",
+      "itemDetails": {
+        "model": "Pixel 4a",
+        "storage": "128GB",
+        "ram": "6GB",
+        "display": "5.8-inch OLED",
+        "connectivity": "4G LTE",
+        "camera": "12.2MP rear camera"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cell-phones",
+      "itemSlug": "smartphones"
+    },
+    {
+      "id": 3,
+      "name": "nubia Z50 5G Unlocked Android Phone",
+      "brand": "nubia",
+      "image": "https://m.media-amazon.com/images/I/61Z0s3n1QwL._AC_SL1500_.jpg",
+      "rating": 3.7,
+      "countInStock": 7,
+      "price": 42999,
+      "description": "Snapdragon 8 Gen 2, 12GB RAM, 256GB, 144Hz AMOLED, 80W quick charge",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cell Phones",
+      "itemName": "Smartphones",
+      "itemDetails": {
+        "model": "nubia Z50",
+        "storage": "256GB",
+        "ram": "12GB",
+        "display": "6.67-inch AMOLED 144Hz",
+        "connectivity": "5G",
+        "battery": "5000mAh"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cell-phones",
+      "itemSlug": "smartphones"
+    },
+    {
+      "id": 4,
+      "name": "DOOGEE S41T Rugged Phone",
+      "brand": "DOOGEE",
+      "image": "https://m.media-amazon.com/images/I/71FmC7P3SQL._AC_SL1500_.jpg",
+      "rating": 4.1,
+      "countInStock": 8,
+      "price": 16999,
+      "description": "Android 14 rugged smartphone, IP68 waterproof, 6300mAh battery, NFC",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cell Phones",
+      "itemName": "Rugged Smartphones",
+      "itemDetails": {
+        "model": "S41T",
+        "storage": "64GB",
+        "ram": "8GB",
+        "durability": "IP68 waterproof",
+        "battery": "6300mAh",
+        "connectivity": "4G dual SIM"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cell-phones",
+      "itemSlug": "rugged-smartphones"
+    },
+    {
+      "id": 5,
+      "name": "Xiaomi Poco X3 GT Factory Unlocked",
+      "brand": "Xiaomi",
+      "image": "https://m.media-amazon.com/images/I/61m1rZ4VqnL._AC_SL1500_.jpg",
+      "rating": 4,
+      "countInStock": 6,
+      "price": 27999,
+      "description": "Dual SIM, 256GB, 8GB RAM, international version in Wave Blue",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cell Phones",
+      "itemName": "Smartphones",
+      "itemDetails": {
+        "model": "Poco X3 GT",
+        "storage": "256GB",
+        "ram": "8GB",
+        "connectivity": "5G",
+        "finish": "Wave Blue",
+        "sim": "Dual SIM"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cell-phones",
+      "itemSlug": "smartphones"
+    },
+    {
+      "id": 6,
+      "name": "INIU Portable Charger 10000mAh",
+      "brand": "INIU",
+      "image": "https://m.media-amazon.com/images/I/61D8J4jC9WL._AC_SL1500_.jpg",
+      "rating": 4.6,
+      "countInStock": 20,
+      "price": 2199,
+      "description": "Slim 10000mAh USB-C fast charging power bank for iPhone, Samsung and iPad",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Accessories",
+      "itemName": "Portable Power Banks",
+      "itemDetails": {
+        "capacity": "10000mAh",
+        "ports": "USB-C in/out",
+        "charging": "5V/3A high-speed",
+        "formFactor": "Slim travel design",
+        "compatibility": "iPhone, Samsung, Pixel, iPad"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "accessories",
+      "itemSlug": "portable-power-banks"
+    },
+    {
+      "id": 7,
+      "name": "Anker Power Bank PowerCore 10K",
+      "brand": "Anker",
+      "image": "https://m.media-amazon.com/images/I/61KQfL0QxvL._AC_SL1500_.jpg",
+      "rating": 4.7,
+      "countInStock": 17,
+      "price": 2999,
+      "description": "Compact 10,000mAh travel-ready battery pack with PowerIQ charging",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Accessories",
+      "itemName": "Portable Power Banks",
+      "itemDetails": {
+        "capacity": "10000mAh",
+        "charging": "PowerIQ 5V/3A",
+        "formFactor": "Compact travel-ready",
+        "ports": "USB-C input/output",
+        "compatibility": "Phones, tablets, earbuds"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "accessories",
+      "itemSlug": "portable-power-banks"
+    },
+    {
+      "id": 8,
+      "name": "Miady 2-Pack 10000mAh Dual USB Chargers",
+      "brand": "Miady",
+      "image": "https://m.media-amazon.com/images/I/71sM7zeVaAL._AC_SL1500_.jpg",
+      "rating": 4.5,
+      "countInStock": 11,
+      "price": 2599,
+      "description": "Dual USB portable chargers with USB-C fast charging for phones and tablets",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Accessories",
+      "itemName": "Portable Power Banks",
+      "itemDetails": {
+        "capacity": "2 x 10000mAh",
+        "ports": "Dual USB + USB-C",
+        "charging": "Fast charging",
+        "package": "2-pack",
+        "compatibility": "iPhone, Galaxy, Pixel"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "accessories",
+      "itemSlug": "portable-power-banks"
+    },
+    {
+      "id": 9,
+      "name": "TORRAS MiniMag Magnetic Power Bank",
+      "brand": "TORRAS",
+      "image": "https://m.media-amazon.com/images/I/61pC8xXlM0L._AC_SL1500_.jpg",
+      "rating": 4.4,
+      "countInStock": 13,
+      "price": 3899,
+      "description": "Ultra-slim 5000mAh wireless magnetic battery pack with USB-C cable",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Accessories",
+      "itemName": "Wireless Power Banks",
+      "itemDetails": {
+        "capacity": "5000mAh",
+        "charging": "Wireless magnetic charging",
+        "cable": "Integrated USB-C cable",
+        "formFactor": "Ultra slim",
+        "compatibility": "MagSafe-compatible iPhones"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "accessories",
+      "itemSlug": "wireless-power-banks"
+    },
+    {
+      "id": 10,
+      "name": "TOCOL for iPhone 16 Pro Max Case",
+      "brand": "TOCOL",
+      "image": "https://m.media-amazon.com/images/I/71v0nQwTQwL._AC_SL1500_.jpg",
+      "rating": 4.5,
+      "countInStock": 22,
+      "price": 1299,
+      "description": "MagSafe-compatible translucent matte bumper case with camera protection",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cases, Holsters & Clips",
+      "itemName": "Basic Cases",
+      "itemDetails": {
+        "compatibility": "iPhone 16 Pro Max",
+        "material": "Translucent matte bumper",
+        "feature": "MagSafe support",
+        "protection": "Full camera protection",
+        "color": "Black"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cases-holsters-clips",
+      "itemSlug": "basic-cases"
+    },
+    {
+      "id": 11,
+      "name": "Case-Mate Waterproof Phone Pouch",
+      "brand": "Case-Mate",
+      "image": "https://m.media-amazon.com/images/I/71YE6Yq5YwL._AC_SL1500_.jpg",
+      "rating": 4.3,
+      "countInStock": 16,
+      "price": 1999,
+      "description": "Floating IP68 waterproof phone pouch with crossbody lanyard",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cases, Holsters & Clips",
+      "itemName": "Crossbody & Lanyard Cases",
+      "itemDetails": {
+        "protection": "IP68 waterproof",
+        "carry": "Crossbody lanyard",
+        "feature": "Floating pouch",
+        "compatibility": "Universal phone fit",
+        "useCase": "Beach and travel"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cases-holsters-clips",
+      "itemSlug": "crossbody-lanyard-cases"
+    },
+    {
+      "id": 12,
+      "name": "ZVE Wallet Crossbody Case",
+      "brand": "ZVE",
+      "image": "https://m.media-amazon.com/images/I/71T5xV5K9oL._AC_SL1500_.jpg",
+      "rating": 4.2,
+      "countInStock": 12,
+      "price": 2399,
+      "description": "Wallet case with zipper pouch, wrist strap and card holder for iPhone 16 Pro Max",
+      "category": "Cell Phones & Accessories",
+      "subcategory": "Cases, Holsters & Clips",
+      "itemName": "Crossbody & Lanyard Cases",
+      "itemDetails": {
+        "compatibility": "iPhone 16 Pro Max",
+        "storage": "Card holder and zipper pouch",
+        "carry": "Crossbody strap + wrist strap",
+        "material": "Protective cover",
+        "color": "Black"
+      },
+      "categorySlug": "cell-phones-accessories",
+      "subcategorySlug": "cases-holsters-clips",
+      "itemSlug": "crossbody-lanyard-cases"
+    },
+    {
+      "id": 13,
+      "name": "Logitech M185 Wireless Mouse",
+      "brand": "Logitech",
+      "image": "https://m.media-amazon.com/images/I/61LtuGzXeaL._AC_SL1500_.jpg",
+      "rating": 4.6,
+      "countInStock": 18,
+      "price": 999,
+      "description": "Compact 2.4GHz wireless mouse for laptop, Chromebook and PC",
+      "category": "Computers & Accessories",
+      "subcategory": "Computer Accessories",
+      "itemName": "Wireless Mice",
+      "itemDetails": {
+        "connectivity": "2.4GHz wireless",
+        "battery": "12-month battery life",
+        "compatibility": "Windows, macOS, ChromeOS",
+        "formFactor": "Compact ambidextrous",
+        "sensor": "Optical tracking"
+      },
+      "categorySlug": "computers-accessories",
+      "subcategorySlug": "computer-accessories",
+      "itemSlug": "wireless-mice"
+    },
+    {
+      "id": 14,
+      "name": "Amazon Basics Wireless Mouse",
+      "brand": "Amazon Basics",
+      "image": "https://m.media-amazon.com/images/I/61KQ+Tz4K0L._AC_SL1500_.jpg",
+      "rating": 4.4,
+      "countInStock": 21,
+      "price": 799,
+      "description": "USB receiver wireless mouse with smooth optical tracking",
+      "category": "Computers & Accessories",
+      "subcategory": "Computer Accessories",
+      "itemName": "Wireless Mice",
+      "itemDetails": {
+        "connectivity": "USB receiver",
+        "tracking": "Optical tracking",
+        "useCase": "Home and office",
+        "compatibility": "Laptop and desktop",
+        "color": "Black"
+      },
+      "categorySlug": "computers-accessories",
+      "subcategorySlug": "computer-accessories",
+      "itemSlug": "wireless-mice"
+    },
+    {
+      "id": 15,
+      "name": "JBL Vibe Beam True Wireless Earbuds",
+      "brand": "JBL",
+      "image": "https://m.media-amazon.com/images/I/61kFL7ywsZS._AC_SL1500_.jpg",
+      "rating": 4.3,
+      "countInStock": 15,
+      "price": 3999,
+      "description": "Deep bass sound, Bluetooth, comfortable fit, all-day listening",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "itemName": "Wireless Earbuds",
+      "itemDetails": {
+        "connectivity": "Bluetooth",
+        "battery": "Up to 32 hours with case",
+        "audio": "Deep bass sound",
+        "fit": "Ergonomic in-ear design",
+        "microphone": "Hands-free calls"
+      },
+      "categorySlug": "electronics",
+      "subcategorySlug": "headphones",
+      "itemSlug": "wireless-earbuds"
+    },
+    {
+      "id": 16,
+      "name": "Soundcore P20i True Wireless Earbuds",
+      "brand": "Soundcore",
+      "image": "https://m.media-amazon.com/images/I/61+Q6Rh3OQL._AC_SL1500_.jpg",
+      "rating": 4.5,
+      "countInStock": 19,
+      "price": 2499,
+      "description": "Powerful bass earbuds with Bluetooth 5.3 and app customization",
+      "category": "Electronics",
+      "subcategory": "Headphones",
+      "itemName": "Wireless Earbuds",
+      "itemDetails": {
+        "connectivity": "Bluetooth 5.3",
+        "battery": "Up to 30 hours",
+        "audio": "Powerful bass",
+        "app": "EQ customization",
+        "microphone": "AI-enhanced calls"
+      },
+      "categorySlug": "electronics",
+      "subcategorySlug": "headphones",
+      "itemSlug": "wireless-earbuds"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo User",
+      "email": "demo@shopzone.com",
+      "passwordHash": "75ddddc23be6be25b5e1355c2206b04c:440103b54f047106671bbf0152648c5838e88b1f78a3f152d9662cd553347e121c45d4ad9552031dc34f38e233931087ef73e3f13314353c9f2a14e1001926a8",
+      "createdAt": "2026-06-04T19:12:56.115Z"
+    }
+  ],
+  "carts": [
+    {
+      "userId": 1,
+      "items": [
+        {
+          "productId": 3,
+          "quantity": 1
+        },
+        {
+          "productId": 6,
+          "quantity": 1
+        },
+        {
+          "productId": 15,
+          "quantity": 1
+        },
+        {
+          "productId": 18,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "orders": []
+}

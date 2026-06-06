@@ -1,4 +1,5 @@
 require("./lib/loadEnv");
+// Trigger nodemon restart to load new .env keys
 
 const express = require("express");
 const cors = require("cors");

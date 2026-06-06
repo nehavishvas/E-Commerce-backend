@@ -69,17 +69,7 @@ const razorpay =
     : null;
 
 app.use(
-  cors({
-    origin: [
-      "http://localhost:3000",
-      "http://localhost:3005",
-      "http://localhost:3100",
-      "http://127.0.0.1:3000",
-      "http://127.0.0.1:3005",
-      "http://127.0.0.1:3100",
-    ],
-    credentials: true,
-  })
+  cors()
 );
 app.use(express.json());
 
